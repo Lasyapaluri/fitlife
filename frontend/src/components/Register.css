@@ -1,0 +1,42 @@
+.register {
+    width: 350px;
+    margin: 50px auto 0;
+    padding: 90px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-image: url(https://i.pinimg.com/564x/b6/50/b7/b650b7f57a60a8a239cb8525e6647faa.jpg);
+    background-repeat: no-repeat;
+    background-size: 850px;
+
+  }
+  
+  .register h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .register input[type="text"],
+  .register input[type="email"],
+  .register input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .register button {
+    width: 100%;
+    padding: 10px;
+    background-color: #32879a;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .register button:hover {
+    background-color: #32879a;
+  }
+  
